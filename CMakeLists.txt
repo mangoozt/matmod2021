@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.20)
 project(untitled)
 
-set(CMAKE_CXX_STANDARD 14)
+set(CMAKE_CXX_STANDARD 11)
 
 add_executable(untitled second.cpp)
 add_executable(untitled1_1 second_1.cpp)
